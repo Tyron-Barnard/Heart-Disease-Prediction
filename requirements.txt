@@ -11,3 +11,6 @@ keras
 requests
 opencv-python-headless
 ucimlrepo
+streamlit_lottie
+
+
