@@ -4,9 +4,9 @@ numpy
 pandas
 matplotlib
 seaborn
-sklearn
-pickle-mixin
+scikit-learn
 tensorflow
 keras
 requests
 opencv-python-headless
+streamlit-lottie
