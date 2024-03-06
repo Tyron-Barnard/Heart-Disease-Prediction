@@ -23,7 +23,7 @@ from utils import display_lottie_animation
 init_db()
 
 # Read CSV file
-df = pd.read_csv('C:/Users/tyron/Heart Care Assignment/heart.csv', delimiter=';')
+df = pd.read_csv('heart.csv', delimiter=';')
 
 
 # Connect to SQLite database
